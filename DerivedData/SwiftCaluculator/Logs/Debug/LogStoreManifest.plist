@@ -5,6 +5,703 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0B7BC365-D8A0-4F0C-9BA2-10D3F663AD40</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0B7BC365-D8A0-4F0C-9BA2-10D3F663AD40.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576308913.45769298</real>
+			<key>timeStoppedRecording</key>
+			<real>576308921.48787296</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>0B7BC365-D8A0-4F0C-9BA2-10D3F663AD40</string>
+		</dict>
+		<key>15992B35-77FB-46A1-B505-0837A1E5B2F3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>15992B35-77FB-46A1-B505-0837A1E5B2F3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576313201.49913204</real>
+			<key>timeStoppedRecording</key>
+			<real>576313275.70595896</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>15992B35-77FB-46A1-B505-0837A1E5B2F3</string>
+		</dict>
+		<key>16A42049-F317-4369-9EE2-0300C6ABB34A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>16A42049-F317-4369-9EE2-0300C6ABB34A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576313332.14215398</real>
+			<key>timeStoppedRecording</key>
+			<real>576314739.26548696</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>16A42049-F317-4369-9EE2-0300C6ABB34A</string>
+		</dict>
+		<key>2558210A-0EB6-4725-8593-AF4AA0072C05</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2558210A-0EB6-4725-8593-AF4AA0072C05.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576308351.459185</real>
+			<key>timeStoppedRecording</key>
+			<real>576308403.23613298</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>2558210A-0EB6-4725-8593-AF4AA0072C05</string>
+		</dict>
+		<key>3AC29BB6-4CD8-4CFE-9EB7-A8F536D90A9D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3AC29BB6-4CD8-4CFE-9EB7-A8F536D90A9D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576309643.80211306</real>
+			<key>timeStoppedRecording</key>
+			<real>576309684.47438502</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>3AC29BB6-4CD8-4CFE-9EB7-A8F536D90A9D</string>
+		</dict>
+		<key>621E7ACB-77D7-40E7-B10B-7FEB812BC8B8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>621E7ACB-77D7-40E7-B10B-7FEB812BC8B8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576308453.40473402</real>
+			<key>timeStoppedRecording</key>
+			<real>576308840.53416097</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>621E7ACB-77D7-40E7-B10B-7FEB812BC8B8</string>
+		</dict>
+		<key>648FBC25-F026-4596-A655-786E10E30EED</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>648FBC25-F026-4596-A655-786E10E30EED.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576309683.44188595</real>
+			<key>timeStoppedRecording</key>
+			<real>576310109.66689599</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>648FBC25-F026-4596-A655-786E10E30EED</string>
+		</dict>
+		<key>658374F5-5416-43BF-98ED-A8B1CA1574AA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>658374F5-5416-43BF-98ED-A8B1CA1574AA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576306974.05114305</real>
+			<key>timeStoppedRecording</key>
+			<real>576306991.31164503</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>658374F5-5416-43BF-98ED-A8B1CA1574AA</string>
+		</dict>
+		<key>717E9B7D-8002-4AAA-8978-2783298B2CB3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>717E9B7D-8002-4AAA-8978-2783298B2CB3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576313274.89803898</real>
+			<key>timeStoppedRecording</key>
+			<real>576313282.15632296</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>717E9B7D-8002-4AAA-8978-2783298B2CB3</string>
+		</dict>
+		<key>7FD2D249-0616-447C-A057-5D1B396D32B1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7FD2D249-0616-447C-A057-5D1B396D32B1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576314731.70788395</real>
+			<key>timeStoppedRecording</key>
+			<real>576314757.58341396</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>7FD2D249-0616-447C-A057-5D1B396D32B1</string>
+		</dict>
+		<key>7FFB0C95-0317-48F2-9596-2CE6C095A556</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7FFB0C95-0317-48F2-9596-2CE6C095A556.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576308980.38134801</real>
+			<key>timeStoppedRecording</key>
+			<real>576309424.23593402</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>7FFB0C95-0317-48F2-9596-2CE6C095A556</string>
+		</dict>
+		<key>8058DAFD-202F-4BBC-BE51-90ACD2A7B3DD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8058DAFD-202F-4BBC-BE51-90ACD2A7B3DD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576308866.95813596</real>
+			<key>timeStoppedRecording</key>
+			<real>576308877.85967803</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>8058DAFD-202F-4BBC-BE51-90ACD2A7B3DD</string>
+		</dict>
+		<key>9D3EE7B5-BA47-4E3C-894D-CC982E6A9295</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9D3EE7B5-BA47-4E3C-894D-CC982E6A9295.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576312425.99242306</real>
+			<key>timeStoppedRecording</key>
+			<real>576312875.97403705</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>9D3EE7B5-BA47-4E3C-894D-CC982E6A9295</string>
+		</dict>
+		<key>9EF24EE7-0FA7-4A2A-AF16-1FB219C9600D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9EF24EE7-0FA7-4A2A-AF16-1FB219C9600D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576310108.55204105</real>
+			<key>timeStoppedRecording</key>
+			<real>576312427.29887795</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>9EF24EE7-0FA7-4A2A-AF16-1FB219C9600D</string>
+		</dict>
+		<key>B0DDDE18-FB97-4C35-8F3F-9B5E3F36D66B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B0DDDE18-FB97-4C35-8F3F-9B5E3F36D66B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576313273.93511796</real>
+			<key>timeStoppedRecording</key>
+			<real>576313276.26773596</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>B0DDDE18-FB97-4C35-8F3F-9B5E3F36D66B</string>
+		</dict>
+		<key>B3E9FC3E-58EF-44F3-91D3-54EB79F376C5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B3E9FC3E-58EF-44F3-91D3-54EB79F376C5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576313046.08106196</real>
+			<key>timeStoppedRecording</key>
+			<real>576313204.89770699</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>B3E9FC3E-58EF-44F3-91D3-54EB79F376C5</string>
+		</dict>
+		<key>EAC02694-7346-406E-9BB1-9C906D7359DB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EAC02694-7346-406E-9BB1-9C906D7359DB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576308839.83602297</real>
+			<key>timeStoppedRecording</key>
+			<real>576308849.67456198</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>EAC02694-7346-406E-9BB1-9C906D7359DB</string>
+		</dict>
+		<key>EC89C13E-D711-48A6-BF10-3113F92431E3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EC89C13E-D711-48A6-BF10-3113F92431E3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576309421.47195995</real>
+			<key>timeStoppedRecording</key>
+			<real>576309645.619807</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>EC89C13E-D711-48A6-BF10-3113F92431E3</string>
+		</dict>
+		<key>F0755247-1D1C-449D-B0F1-32B7C52CF2D2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F0755247-1D1C-449D-B0F1-32B7C52CF2D2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576314826.423841</real>
+			<key>timeStoppedRecording</key>
+			<real>576314917.975214</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>F0755247-1D1C-449D-B0F1-32B7C52CF2D2</string>
+		</dict>
+		<key>F0D970F3-A100-4DCA-BAC1-C07FF3B731DE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F0D970F3-A100-4DCA-BAC1-C07FF3B731DE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576312874.98467898</real>
+			<key>timeStoppedRecording</key>
+			<real>576313005.48829699</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>F0D970F3-A100-4DCA-BAC1-C07FF3B731DE</string>
+		</dict>
+		<key>F3695C7E-BE31-4C03-8AC4-87DEEE646E73</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F3695C7E-BE31-4C03-8AC4-87DEEE646E73.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576308402.06050098</real>
+			<key>timeStoppedRecording</key>
+			<real>576308454.31013501</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>F3695C7E-BE31-4C03-8AC4-87DEEE646E73</string>
+		</dict>
+		<key>F4FE6E7C-CC13-4EB9-80F8-A3D2CF04722A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F4FE6E7C-CC13-4EB9-80F8-A3D2CF04722A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576308941.96239102</real>
+			<key>timeStoppedRecording</key>
+			<real>576308981.38629198</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>F4FE6E7C-CC13-4EB9-80F8-A3D2CF04722A</string>
+		</dict>
+		<key>F8E628FC-99D3-447B-A7F6-8DAC2AC255CA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F8E628FC-99D3-447B-A7F6-8DAC2AC255CA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576313004.16275299</real>
+			<key>timeStoppedRecording</key>
+			<real>576313047.10376799</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>F8E628FC-99D3-447B-A7F6-8DAC2AC255CA</string>
+		</dict>
+		<key>FF856924-99CF-459C-A8E5-F297419FC4D1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FF856924-99CF-459C-A8E5-F297419FC4D1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCaluculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCaluculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>timeStartedRecording</key>
+			<real>576313280.72223902</real>
+			<key>timeStoppedRecording</key>
+			<real>576313333.05981505</real>
+			<key>title</key>
+			<string>Debug SwiftCaluculator</string>
+			<key>uniqueIdentifier</key>
+			<string>FF856924-99CF-459C-A8E5-F297419FC4D1</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

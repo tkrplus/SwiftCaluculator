@@ -12,16 +12,20 @@
 		00BF9B482253B06C00B8FCB0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00BF9B462253B06C00B8FCB0 /* Main.storyboard */; };
 		00BF9B4A2253B06D00B8FCB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00BF9B492253B06D00B8FCB0 /* Assets.xcassets */; };
 		00BF9B4D2253B06D00B8FCB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00BF9B4B2253B06D00B8FCB0 /* LaunchScreen.storyboard */; };
+		22A65FF6D32DBD92C4E5911C /* Pods_SwiftCaluculator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 978DFB8965BEFFF7A5407426 /* Pods_SwiftCaluculator.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		00BF9B3F2253B06C00B8FCB0 /* SwiftCaluculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftCaluculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00BF9B422253B06C00B8FCB0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		00BF9B442253B06C00B8FCB0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		00BF9B442253B06C00B8FCB0 /* ViewController.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; tabWidth = 2; };
 		00BF9B472253B06C00B8FCB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		00BF9B492253B06D00B8FCB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00BF9B4C2253B06D00B8FCB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00BF9B4E2253B06D00B8FCB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7137AC2FFFE9968A709160AD /* Pods-SwiftCaluculator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftCaluculator.release.xcconfig"; path = "Target Support Files/Pods-SwiftCaluculator/Pods-SwiftCaluculator.release.xcconfig"; sourceTree = "<group>"; };
+		89604552A052EC8575ED4E6D /* Pods-SwiftCaluculator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftCaluculator.debug.xcconfig"; path = "Target Support Files/Pods-SwiftCaluculator/Pods-SwiftCaluculator.debug.xcconfig"; sourceTree = "<group>"; };
+		978DFB8965BEFFF7A5407426 /* Pods_SwiftCaluculator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftCaluculator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22A65FF6D32DBD92C4E5911C /* Pods_SwiftCaluculator.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +45,8 @@
 			children = (
 				00BF9B412253B06C00B8FCB0 /* SwiftCaluculator */,
 				00BF9B402253B06C00B8FCB0 /* Products */,
+				A3A306EA6F318D6F7D813A47 /* Pods */,
+				23B7BAB562DB33282CC0B15B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -64,6 +71,23 @@
 			path = SwiftCaluculator;
 			sourceTree = "<group>";
 		};
+		23B7BAB562DB33282CC0B15B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				978DFB8965BEFFF7A5407426 /* Pods_SwiftCaluculator.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A3A306EA6F318D6F7D813A47 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				89604552A052EC8575ED4E6D /* Pods-SwiftCaluculator.debug.xcconfig */,
+				7137AC2FFFE9968A709160AD /* Pods-SwiftCaluculator.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -71,9 +95,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00BF9B512253B06D00B8FCB0 /* Build configuration list for PBXNativeTarget "SwiftCaluculator" */;
 			buildPhases = (
+				D12288162CAF732001DD79DE /* [CP] Check Pods Manifest.lock */,
 				00BF9B3B2253B06C00B8FCB0 /* Sources */,
 				00BF9B3C2253B06C00B8FCB0 /* Frameworks */,
 				00BF9B3D2253B06C00B8FCB0 /* Resources */,
+				A594E5FDF51FDCEA06BD7FD4 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -129,6 +155,53 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A594E5FDF51FDCEA06BD7FD4 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SwiftCaluculator/Pods-SwiftCaluculator-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Expression/Expression.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Expression.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SwiftCaluculator/Pods-SwiftCaluculator-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D12288162CAF732001DD79DE /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SwiftCaluculator-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		00BF9B3B2253B06C00B8FCB0 /* Sources */ = {
@@ -280,6 +353,7 @@
 		};
 		00BF9B522253B06D00B8FCB0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 89604552A052EC8575ED4E6D /* Pods-SwiftCaluculator.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -297,6 +371,7 @@
 		};
 		00BF9B532253B06D00B8FCB0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7137AC2FFFE9968A709160AD /* Pods-SwiftCaluculator.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
